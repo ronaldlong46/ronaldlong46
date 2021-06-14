@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ronald Long
+- 👋 Hi, I’m Ronald Long.
 - 👀 Lately I've been working in JavaScript, Node.js, MongoDB, and Linux. 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ronald-long/).
 
